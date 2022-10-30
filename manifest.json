@@ -1,0 +1,7 @@
+{
+    "name": "Daan Nekeman",
+    "version": "1.0.0",
+    "description": "A Notes/Checklist extension",
+    "manifest_version": 3,
+    "permissions": ["storage"]
+}
