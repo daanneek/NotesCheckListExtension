@@ -1,7 +1,11 @@
 {
-    "name": "Daan Nekeman",
-    "version": "1.0.0",
-    "description": "A Notes/Checklist extension",
     "manifest_version": 3,
-    "permissions": ["storage"]
+    "name": "Daan's Notes",
+    "version": "1",
+    "author":"Daan Nekeman",
+    "description": "A plain text description",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Daan's Notes"
+    }
 }
